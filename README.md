@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/ImVjGit/Gif/main/54b6c068097599.5b50bca476b9b.gif" width="100%" />
-<h1 align="center">Hi 👋 Welcome, I'm Biniyam</h1>
+<h1 align="center">Hi 👋, Welcome, I'm Biniyam</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=4000&pause=900&color=2D9BB5&random=false&width=435&lines=Proficient+MERN+stack+developer.;Exploring+insights.;Commitment+and+collaboration." alt="Typing SVG" /></a>
 <h2 align="left">A Passionate Full Stack developer</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biniyam-21&label=Profile%20views&color=0e75b6&style=flat" alt="biniyam-21" /> </p>
