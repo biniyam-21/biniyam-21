@@ -1,14 +1,25 @@
 <img src="https://raw.githubusercontent.com/ImVjGit/Gif/main/54b6c068097599.5b50bca476b9b.gif" width="100%" />
 <h1 align="center">Hi 👋, Welcome, I'm Biniyam</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=4000&pause=900&color=2D9BB5&random=false&width=435&lines=Proficient+MERN+stack+developer.;Exploring+insights.;Commitment+and+collaboration." alt="Typing SVG" /></a>
-<h2 align="left">A Passionate Full Stack developer</h2>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=biniyam-21&label=Profile%20views&color=0e75b6&style=flat" alt="biniyam-21" /> </p>
+<h2 align="left">Full Stack Software Engineer</h2>
 
-- 🌱 I’m currently learning **software engineering at AAiT**
-- 💬 Ask me about **MERN Stack, Data Structure**
-- 📫 How to reach me **biniyamxyz@gmail.com**
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=biniyam-21&label=Profile%20views&color=0e75b6&style=flat" alt="biniyam-21" />
+</p>
 
-<div> <a href="https://www.linkedin.com/in/linkedin.com/in/biniyam-tesfu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+* 🎓 Software Engineering graduate from Addis Ababa University
+* 💻 Full Stack Software Engineer with professional experience building and deploying production applications
+* 🚀 Experienced in designing and developing scalable web applications, APIs, ERP systems, and healthcare solutions
+* 🛠️ Experienced with **TypeScript, JavaScript, Node.js, NestJS, Express, React, Next.js, PHP, PostgreSQL, MySQL, Prisma, and AWS**
+* 🧠 Interested in **Software Architecture, Backend Engineering, System Design, and Data Structures & Algorithms**
+* 📫 How to reach me **[biniyamxyz@gmail.com](mailto:biniyamxyz@gmail.com)**
+
+<div>
+  <a href="https://www.linkedin.com/in/biniyam-tesfu" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
+
 <a href="https://github.com/biniyam-21" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:biniyamxyz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
